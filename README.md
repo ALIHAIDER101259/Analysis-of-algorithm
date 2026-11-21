@@ -19,9 +19,4 @@ From-scratch C++17 implementation and empirical time-complexity benchmarking of 
 * **Given Ascending Arrays:** `Arr1` ($N=5$), `Arr2` ($N=10$), `Arr3` ($N=50$), and `Arr4` ($N=100$).
 * **Reverse-Sorted Worst Case:** Descending sequences of sizes $N = 5, 10, 50, 100$.
 
-## How to Compile and Run
 
-### Using `g++` (Terminal / VS Code)
-```bash
-g++ -O2 sorting_benchmark_n.cpp -o sorting_benchmark_n
-./sorting_benchmark_n
